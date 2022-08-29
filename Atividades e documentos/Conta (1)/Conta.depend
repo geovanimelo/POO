@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\alunod14\desktop\conta\main.cpp
+	<iostream>
+
+1489663994 source:c:\users\alunod14\desktop\conta\src\conta.cpp
+	"Conta.h"
+	<iostream>
+
+1489664008 c:\users\alunod14\desktop\conta\include\conta.h
+	<iostream>
+

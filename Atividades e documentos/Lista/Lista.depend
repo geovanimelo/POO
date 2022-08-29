@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1493725874 source:c:\users\alunod14\desktop\lista\main.cpp
+	"Forma.h"
+	"Retangulo.h"
+	"Quadrado.h"
+	<iostream>
+
+1493726138 c:\users\alunod14\desktop\lista\include\forma.h
+	<iostream>
+
+1493725874 c:\users\alunod14\desktop\lista\include\retangulo.h
+	"Forma.h"
+	<iostream>
+
+1493725076 c:\users\alunod14\desktop\lista\include\quadrado.h
+	"Retangulo.h"
+	<iostream>
+
+1493725959 source:c:\users\alunod14\desktop\lista\src\forma.cpp
+	"Forma.h"
+	"Retangulo.h"
+	"Quadrado.h"
+	<iostream>
+
+1493724915 source:c:\users\alunod14\desktop\lista\src\quadrado.cpp
+	"Quadrado.h"
+	<iostream>
+
+1493726027 source:c:\users\alunod14\desktop\lista\src\retangulo.cpp
+	"Retangulo.h"
+	"Forma.h"
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487074227 source:c:\users\alunod14\desktop\atividade 3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+

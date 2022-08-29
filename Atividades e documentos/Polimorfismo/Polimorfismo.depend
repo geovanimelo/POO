@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493292200 source:c:\users\geova\desktop\polimorfismo\main.cpp
+	<iostream>
+	"Mae.h"
+	"Filha.h"
+
+1493291973 c:\users\geova\desktop\polimorfismo\include\mae.h
+
+1493292214 c:\users\geova\desktop\polimorfismo\include\filha.h
+	"Mae.h"
+	<iostream>
+
+1493291695 source:c:\users\geova\desktop\polimorfismo\src\filha.cpp
+	"Filha.h"
+
+1493292235 source:c:\users\geova\desktop\polimorfismo\src\mae.cpp
+	"Mae.h"
+	<iostream>
+

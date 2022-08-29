@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1475754109 source:c:\users\professord14\documents\codeblocks\poo\main.cpp
+	<iostream>
+
+1493899288 source:c:\users\professord14\documents\codeblocks\banco_clientes\main.cpp
+	<iostream>
+	"Animal.h"
+	"Cachorro.h"
+	"Gato.h"
+	"Galinha.h"
+	"Relatorio.h"
+	"ContaPoupanca.h"
+	"B.h"
+
+1491475269 c:\users\professord14\documents\codeblocks\banco_clientes\include\tratarerrovetor.h
+	<iostream>
+
+1491475267 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\tratarerrovetor.cpp
+	"TratarErroVetor.h"
+
+1481195225 c:\users\professord14\documents\codeblocks\banco_clientes\include\classeb.h
+	"classeA.h"
+	<iostream>
+
+1481195022 c:\users\professord14\documents\codeblocks\banco_clientes\include\classea.h
+
+1481195248 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\classea.cpp
+	"classeA.h"
+
+1481195225 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\classeb.cpp
+	"classeB.h"
+
+1481195328 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\classec.cpp
+	"classeC.h"
+
+1481195341 c:\users\professord14\documents\codeblocks\banco_clientes\include\classec.h
+	"classeA.h"
+	<iostream>
+
+1481195655 c:\users\professord14\documents\codeblocks\banco_clientes\include\classed.h
+	"classeA.h"
+	<iostream>
+
+1481195639 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\classed.cpp
+	"classeD.h"
+
+1489665582 c:\users\professord14\documents\codeblocks\banco_clientes\include\conta.h
+	<iostream>
+
+1489664853 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\conta.cpp
+	"Conta.h"
+
+1491476775 c:\users\professord14\documents\codeblocks\banco_clientes\include\matematica.h
+
+1491476939 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\matematica.cpp
+	"Matematica.h"
+	<iostream>
+
+1493895067 c:\users\professord14\documents\codeblocks\banco_clientes\include\animal.h
+	<iostream>
+
+1493895114 c:\users\professord14\documents\codeblocks\banco_clientes\include\cachorro.h
+	<iostream>
+	"Animal.h"
+
+1492685667 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\amizade.cpp
+	"Amizade.h"
+	<iostream>
+
+1492514885 c:\users\professord14\documents\codeblocks\banco_clientes\include\amizade.h
+
+1493292897 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\animal.cpp
+	"Animal.h"
+
+1493895134 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\cachorro.cpp
+	"Cachorro.h"
+
+1492685713 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\funcionario.cpp
+	"Funcionario.h"
+
+1492685690 c:\users\professord14\documents\codeblocks\banco_clientes\include\funcionario.h
+	"Pessoa.h"
+
+1492685705 c:\users\professord14\documents\codeblocks\banco_clientes\include\pessoa.h
+	<iostream>
+
+1492687868 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\viralata.cpp
+	"Viralata.h"
+
+1492688639 c:\users\professord14\documents\codeblocks\banco_clientes\include\viralata.h
+	"Cachorro.h"
+	<iostream>
+
+1493292852 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\mae.cpp
+	"Mae.h"
+
+1493292852 c:\users\professord14\documents\codeblocks\banco_clientes\include\mae.h
+
+1493290519 c:\users\professord14\documents\codeblocks\banco_clientes\include\filha.h
+	"Mae.h"
+	<iostream>
+
+1493290505 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\filha.cpp
+	"Filha.h"
+
+1493293079 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\galinha.cpp
+	"Galinha.h"
+
+1493293060 c:\users\professord14\documents\codeblocks\banco_clientes\include\galinha.h
+	<iostream>
+	"Animal.h"
+
+1493293033 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\gato.cpp
+	"Gato.h"
+
+1493293017 c:\users\professord14\documents\codeblocks\banco_clientes\include\gato.h
+	<iostream>
+	"Animal.h"
+
+1493293513 c:\users\professord14\documents\codeblocks\banco_clientes\include\veterinario.h
+	"Animal.h"
+
+1493293482 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\veterinario.cpp
+	"Veterinario.h"
+
+1493896015 c:\users\professord14\documents\codeblocks\banco_clientes\include\a.h
+	<iostream>
+
+1493725731 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\forma.cpp
+	"Forma.h"
+
+1493725430 c:\users\professord14\documents\codeblocks\banco_clientes\include\forma.h
+
+1493725726 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\quadrado.cpp
+	"Quadrado.h"
+
+1493725636 c:\users\professord14\documents\codeblocks\banco_clientes\include\quadrado.h
+	"Retangulo.h"
+
+1493725541 c:\users\professord14\documents\codeblocks\banco_clientes\include\retangulo.h
+	"Forma.h"
+
+1493725533 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\retangulo.cpp
+	"Retangulo.h"
+
+1493894742 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\a.cpp
+	"A.h"
+
+1493894938 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\b.cpp
+	"B.h"
+
+1493894907 c:\users\professord14\documents\codeblocks\banco_clientes\include\b.h
+	<iostream>
+	"A.h"
+
+1493899197 c:\users\professord14\documents\codeblocks\banco_clientes\include\relatorio.h
+	"Imprimivel.h"
+
+1493899328 c:\users\professord14\documents\codeblocks\banco_clientes\include\imprimivel.h
+
+1493899358 c:\users\professord14\documents\codeblocks\banco_clientes\include\contapoupanca.h
+	"ContaBancaria.h"
+	"Imprimivel.h"
+	<iostream>
+
+1493896906 c:\users\professord14\documents\codeblocks\banco_clientes\include\contabancaria.h
+
+1493899432 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\contabancaria.cpp
+	"ContaBancaria.h"
+
+1493898946 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\imprimivel.cpp
+	"Imprimivel.h"
+
+1493899326 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\relatorio.cpp
+	"Relatorio.h"
+
+1493899409 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\contapoupanca.cpp
+	"ContaPoupanca.h"
+
+1493899432 source:c:\users\professord14\documents\codeblocks\banco_clientes\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1493899358 c:\users\professord14\documents\codeblocks\banco_clientes\include\contacorrente.h
+	"ContaBancaria.h"
+	"Imprimivel.h"
+	<iostream>
+

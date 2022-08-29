@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\alunod14\desktop\classeabstrata\main.cpp
+	<iostream>
+
+1493895441 source:c:\users\alunod14\desktop\classeabstrata\src\a.cpp
+	"A.h"
+
+1493895627 c:\users\alunod14\desktop\classeabstrata\include\a.h
+	<iostream>
+
+1493895441 source:c:\users\alunod14\desktop\classeabstrata\src\b.cpp
+	"B.h"
+
+1493895499 c:\users\alunod14\desktop\classeabstrata\include\b.h
+

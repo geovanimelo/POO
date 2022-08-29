@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1489490803 source:c:\users\alunod14\desktop\primeiro\main.cpp
+	<iostream>
+	"Retangulo.h"
+	"Aluno.h"
+
+1489043692 c:\users\alunod14\desktop\primeiro\include\retangulo.h
+
+1489043692 source:c:\users\alunod14\desktop\primeiro\src\retangulo.cpp
+	"Retangulo.h"
+
+1489491206 c:\users\alunod14\desktop\primeiro\include\aluno.h
+	<iostream>
+
+1489491490 source:c:\users\alunod14\desktop\primeiro\src\aluno.cpp
+	"Aluno.h"
+	<iostream>
+

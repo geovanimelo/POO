@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490640738 source:c:\users\geova\desktop\loja\main.cpp
+	<iostream>
+	<Estoque.h>
+	<Loja.h>
+
+1490623545 c:\users\geova\desktop\loja\include\estoque.h
+	<iostream>
+
+1490627981 source:c:\users\geova\desktop\loja\src\estoque.cpp
+	"Estoque.h"
+	<iostream>
+
+1490642444 c:\users\geova\desktop\loja\include\loja.h
+	"Estoque.h"
+	<iostream>
+
+1490629850 source:c:\users\geova\desktop\loja\src\loja.cpp
+	"Loja.h"
+	"Estoque.h"
+	<iostream>
+
